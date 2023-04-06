@@ -1,0 +1,18 @@
+*{
+box-sizing: border-box;    
+margin: 0;
+}
+
+/* Center the logo in the navbar */
+.navbar-brand {
+display: flex;
+align-items: center;
+}
+/* Style the laptop image */
+.laptop-img {
+width: 50%;
+height: auto;
+display: block;
+margin: auto;
+padding: 20px;
+}
